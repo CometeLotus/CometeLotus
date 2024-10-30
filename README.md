@@ -27,27 +27,28 @@
 
 #### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+  <a href="https://docs.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
+  <a href="https://en.cppreference.com/w/c/language" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40" height="40"/></a>
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
 </p>
 
 #### Operating Systems & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=kali" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="40" height="40"/>
+  <a href="https://www.kali.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" alt="Linux" width="40" height="40"/></a>
+  <a href="https://support.microsoft.com/en-us/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" width="40" height="40"/></a>
+  <a href="https://www.raspberrypi.org/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="40" height="40"/></a>
 </p>
+
 
 
 <h2 align="left">⚡ Stats ⚡</h2>
