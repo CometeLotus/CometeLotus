@@ -24,19 +24,30 @@
 - 📚 I’m interested in **cybersecurity**, **development**, **automation**, and technical problem solving
 - 📫 How to reach me: **alexandre.mihet@gmail.com**
 - 🐱 Fun fact: I have a **three-legged cat** who’s still more stable than some of my projects
+
 ## 🛠️ Languages and Technologies
 
 ### Programming & scripting
-<p align="left"><a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /></a>&nbsp;<a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" /></a>&nbsp;<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /></a>&nbsp;<a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" /></a>&nbsp;<a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,bash,typescript,javascript&perline=6" alt="Programming & scripting" />
+</p>
 
 ### Web development
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /></a>&nbsp;<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a>&nbsp;<a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" /></a>&nbsp;<a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" alt="Web development" />
+</p>
 
 ### DevOps, infra & tooling
-<p align="left"><a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>&nbsp;<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" /></a>&nbsp;<a href="https://docs.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="48" height="48" /></a>&nbsp;<a href="https://docs.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="48" height="48" /></a>&nbsp;<a href="https://docs.github.com/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" /></a>&nbsp;<a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,gitlab,githubactions,nginx&perline=6" alt="DevOps, infra & tooling" />
+</p>
 
 ### Databases & systems
-<p align="left"><a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>&nbsp;<a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>&nbsp;<a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>&nbsp;<a href="https://learn.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="48" height="48" /></a>&nbsp;<a href="https://www.raspberrypi.com/documentation/"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="48" height="48" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,windows,raspberrypi&perline=5" alt="Databases & systems" />
+</p>
 
 ### Other tools & formats
-<p align="left"><a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>&nbsp;<a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>&nbsp;<a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a>&nbsp;<a href="https://www.latex-project.org/help/documentation/"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="48" height="48" /></a>&nbsp;<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,latex,markdown&perline=5" alt="Other tools & formats" />
+</p>
